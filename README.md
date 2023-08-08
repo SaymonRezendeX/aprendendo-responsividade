@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O objetivo desse projeto é criar a toda a estrutura de uma forma responsiva:
+O objetivo desse projeto é criar toda a estrutura do projeto de uma forma responsiva:
 
 <strong>1º /</strong> Fiz a estrutura HTML para dispotivos móveis. <br>
 <strong>2º /</strong> Estilizei todo o projeto no CSS. <br>
